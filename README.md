@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![abhinavaa01's GitHub | Languages Over Time](https://stats.quine.sh/abhinavaa01/languages-over-time?theme=dark)](https://quine.sh)
 <!--
 **abhinavaa02/abhinavaa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
